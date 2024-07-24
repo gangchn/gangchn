@@ -1,8 +1,5 @@
-### Ni Hao 👋 I’m gangchn!
+### Ni Hao 👋
 
-- 👀 I’m currently interested in [nest](https://github.com/nestjs/nest) & [prisma](https://github.com/prisma/prisma)
-- 🌱 I’m currently learning [flutter](https://github.com/flutter/flutter)
-- 🤝 I’m looking to seek on like-minded people, communicate with each other
-- 💬 If you interested in me, please contact me at issues
-
-Here is some idea projects as follows: 👇🏼
+- 🌴 I’m gangchn, a front-end developer in struggle.
+- ☀️ I enjoy coding and play computer game, interested in everything about computers.
+- 🌍 I like to think, pursue the truth, and hate all political correctness.
